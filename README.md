@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 - 👋 Hi, I’m Bikramadittya Bagchi (@bbagchi97)
 - 👀 I’m interested in learning languages to build interesting projects.
 - 🌱 I’m currently pursuing Master of Computer Application at Siliguri Institute of Technology, Siliguri
